@@ -62,8 +62,8 @@ We have formulated **11 hypotheses** related to different features in the datase
 1. Clone the repository:
 
    \`\`\`bash
-   git clone https://github.com/your-username/california_housing_analysis.git
-   cd california_housing_analysis
+   git clone [https://github.com/your-username/california_housing_analysis.git](https://github.com/Gouranga-GH/hypothesis_test_proj_cal_housing.git)
+   cd hypothesis_test_proj_cal_housing
    \`\`\`
 
 2. Install the required dependencies:
